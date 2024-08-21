@@ -121,4 +121,4 @@ We extend our heartfelt gratitude to SJ Innovation for organizing an exhilaratin
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to us. You can contact us via email at [daihaistar@gmail.com](DaiVo:daihaistar@gmail.com). We value your input and look forward to hearing from you.
+For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to us. You can contact us via email at [daihaistar@gmail.com](mailto:daihaistar@gmail.com). We value your input and look forward to hearing from you.
