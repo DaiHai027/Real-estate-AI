@@ -27,7 +27,7 @@ Welcome to the Real Estate AI Client Site repository - Empowering the real estat
 [RealEstateGenius](https://realestategenius.netlify.app/)
 
 ## Git Repositories
-- [Github Client Repo](https://github.com/jharnakhatun2/real-estate-ai)
+- [Github Client Repo](https://github.com/DaiHai027/Real-estate-AI.git)
 - [Github Server Repo](https://github.com/codernoyan/real-estate-ai-server)
   
 ## Instruction Video
